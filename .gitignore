@@ -5,3 +5,4 @@ model/special_tokens_map.json
 model/tokenizer.json 
 model/tokenizer_config.json
 model/vocab.txt
+data\embeddings
